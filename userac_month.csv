@@ -1,0 +1,16 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: NSTEM
+# Property: NSTEM Website - GA4
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20240121
+# End date: 20240217
+First user primary channel group (Default Channel Group),New users,Engaged sessions,Engagement rate,Engaged sessions per user,Average engagement time,Event count,Conversions,Total revenue
+Organic Search,2166,1885,0.7073170731707317,0.835920177383592,91.65986696230598,19477,0,0
+Referral,808,824,0.7066895368782161,0.9438717067583047,86.57961053837343,7683,0,0
+Direct,727,702,0.6163301141352063,0.8874841972187105,279.91150442477874,16463,0,0
+Organic Social,44,28,0.5490196078431373,0.6222222222222222,45.93333333333333,297,0,0
+Organic Video,5,7,0.6363636363636364,1.1666666666666667,386.5,128,0,0
+Email,4,7,0.5384615384615384,1.1666666666666667,129.16666666666666,87,0,0
